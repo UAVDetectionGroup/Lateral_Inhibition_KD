@@ -1,0 +1,2 @@
+# Lateral_Inhibition_KD
+侧抑制机制驱动的目标检测知识蒸馏
